@@ -23,7 +23,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 [Indeed]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[Email]: Elijah89112@gmail.com 
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 
