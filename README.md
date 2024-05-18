@@ -1,6 +1,9 @@
 <h1>Hi, I'm Elijah ! <br/><a href="https://github.com/ewol23"> IT enthusiast</a>, <a href="https://www.linkedin.com/in/elijah-woldemariam-4b3b32159?trk=people-guest_people_search-card/"> IT Professional</a>, <a href="https://coursera.org/share/0e266de596960f3d3d0bd3a2c177c791</a></h1>
 
+
+
 <h2>👨‍💻 IT Projects:</h2>
+
 
 - <b>Adding users and groups in Active directory (AD depolyment through VM)</b>
   - [Adding users and groups in Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
