@@ -19,6 +19,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+ <b> IT support certficate https://coursera.org/share/0e266de596960f3d3d0bd3a2c177c791</b>
 
 <h2> 🤳 Connect with me:</h2>
 [Indeed]: https://twitter.com/joshmadakor
