@@ -6,7 +6,7 @@
 
 
 - <b> Projects in Active directory (AD depolyment through VM)</b>
-  - [Adding users and groups in Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Projects in Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Installing Ubuntu 22.10 Kinetic KUDU ARM64 Desktop Edition On M2 Mac Or Any Mac W/ Apple Silicon. Using UTM)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
