@@ -8,7 +8,7 @@
 - <b> Projects in Active directory (AD depolyment through VM)</b>
   - [Projects in Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Installing Ubuntu 22.10 Kinetic KUDU ARM64 Desktop Edition On M2 Mac Or Any)</b>
-  - [https://github.com/ewol23/Installing-Ubuntu-22.10-Kinetic-KUDU-ARM64-Desktop-Edition-On-M2-Mac-Or-Any-Mac-/tree/main])</b></i>
+  - https://github.com/ewol23/Installing-Ubuntu-22.10-Kinetic-KUDU-ARM64-Desktop-Edition-On-M2-Mac-Or-Any-Mac-/tree/main</b></i>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
