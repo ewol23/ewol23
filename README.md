@@ -9,8 +9,8 @@
   - [Projects in Active directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Installing Ubuntu 22.10 Kinetic KUDU ARM64 Desktop Edition On M2 Mac Or Any)</b>
   - https://github.com/ewol23/Installing-Ubuntu-22.10-Kinetic-KUDU-ARM64-Desktop-Edition-On-M2-Mac-Or-Any-Mac-/tree/main</b></i>
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>How to Create a New User in Active Directory 2019l</b>
+  -https://github.com/ewol23/How-to-Create-a-New-User-in-Active-Directory-2019- 
   
 - <b>C# (How to Create a New User in Active Directory 2019)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
